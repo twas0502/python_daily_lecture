@@ -2,7 +2,7 @@
 
 # day 1
 
-1. [jupyter notebook]
+1. [jupyter notebook](1-01JupyterNotebook.ipynb)
 2. 이미지 테스트 : [test.md](test.md)
 
 # day2
