@@ -2,9 +2,7 @@
 
 # day 1
 
-1. jupyter notebook{1-01JupyterNotebook.ipynb}
-2. cell
-3. 명령모드와 편집모드
-4. 단축키
+1. [jupyter notebook]
+2. 이미지 테스트 : [test.md](test.md)
 
 # day2
